@@ -6,7 +6,7 @@
 <p> pip install youtube-search-python </p>
 
 <h2 align="left"> How To Use? </h2>
-<p> type python main.py tool are being automate run </p>
+<p> type 'python main.py' tool are being automate run </p>
 
 <h2 align="left"> OK FOR : </h2>
 
